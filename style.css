@@ -1,0 +1,27 @@
+/*CSS comment tutorial*/
+body {	
+	justify-content: center;
+	display:grid;
+	background: url('./media/beton.jpg') center center repeat; 
+}
+
+h1 {
+	color:#FFFFFF;
+}
+
+p {
+	color:#FFFFFF;
+}
+
+.holderofall {
+	display: grid;
+	background: linear-gradient(0deg, 
+	rgba(0, 0, 0, 0) 0%, 
+	rgba(26, 26, 26, 0.6) 15%, 
+	rgba(26, 26, 26, 0.6) 85%,
+	rgba(0, 0, 0, 0) 100%);	
+	justify-content: center;
+	max-width: 58em;
+	width: 158em;
+}
+	
